@@ -10,6 +10,7 @@
 *
 * For full copyright and license information, please see
 * the CREDITS.txt file.
+*/
 
 if (!defined('IN_PHPBB'))
 {
