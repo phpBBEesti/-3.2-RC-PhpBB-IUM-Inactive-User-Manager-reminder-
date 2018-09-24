@@ -23,9 +23,9 @@ if ( empty($lang) || !is_array($lang) )
 }
 
 $lang = array_merge($lang, array(
-	'SENT_REMINDERS'		=>	'%s reminders were sent.',
-	'USERS_DELETED'			=>	'"%1s" users were deleted, request type : "%2s"',
-	'USER_DELETED'			=>	'User "%1s" was deleted, request type : "%2s"',
-	'SOMETHING_WRONG'		=>	'Something was wrong with your request. Requested users for deletion did not match with the actual users in the database',
-	'USER_SELF_DELETED'		=>	'A user was self deleted. Configuration for posts was set on "%s"',
+	'SENT_REMINDERS'		=>	'%s saadeti meeldetuletused.',
+	'USERS_DELETED'			=>	'"%1s" kasutajad kustutati, taotluse tüüp : "%2s"',
+	'USER_DELETED'			=>	'Kasutaja "%1s" kustutatud, taotluse tüüp : "%2s"',
+	'SOMETHING_WRONG'		=>	'Teie taotlusega oli midagi valesti. Kustutatud kasutajad ei vastanud andmebaasi tegelikele kasutajatele',
+	'USER_SELF_DELETED'		=>	'Kasutaja kustutas ennast ise. Postituste konfigureerimine oli seatud "%s"',
 ));
