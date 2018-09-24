@@ -1,8 +1,9 @@
 <?php
 
 /**
-* This file is part of the phpBB Forum extension package
-* IUM (Inactive User Manager).
+*
+* IUM (Inactive User Manager Reminder extension for the phpBB Forum Software package.
+* Estonian translation by phpBBestonia.eu <https://www.phpbbestonia.eu>
 *
 * @copyright (c) 2016 by Andreas Kourtidis
 * @license   GNU General Public License, version 2 (GPL-2.0)
