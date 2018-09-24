@@ -23,9 +23,9 @@ if ( empty($lang) || !is_array($lang) )
 }
 
 $lang = array_merge($lang, array(
-	'USER_SELF_DELETE_TITLE'		=>  'Self deletion page.',
-	'USER_SELF_DELETE_EXPLAIN'		=>  'By checking the verify box and clicking on the confirm button you accept to delete your user account in this forum.<br/>All your posts will remain intact but you will no longer be able to connect with your username/password.<br/>If you create an account with the same username previous post will not be connected with the new acount.',
-	'USER_SELF_DELETE_VERIFY'		=>  'I understand the consequencies and I verify',
+	'USER_SELF_DELETE_TITLE'		=>  'Ise kustutamise leht.',
+	'USER_SELF_DELETE_EXPLAIN'		=>  'Kinnitades linnukesega ja klõpsates kinnitusnupul, nõustute kasutaja foorumist kustutama.<br/>Kõik teie postitused jäävad puutumatuks, kuid te ei saa enam oma kasutajanime ja parooliga logida.<br/>Kui loote konto sama kasutajanimega, siis eelmised postitused ei seota uue aktiveerimisega.',
+	'USER_SELF_DELETE_VERIFY'		=>  'Mõistan tagajärgi ja kontrollin',
 	'HAVE_TO_LOGIN'					=>  'we are sorry, but you have to login to see this page.',
 	'HAVE_TO_VERIFY'				=>  'Please check the verification box.',
 	'PAGE_NOT_EXIST'				=>  'We are very sorry for the inconvenience.<br/><br/>But self deletion is disabled.<br/>If you came to this page by accident please check the url you\'ve typed in your browser.<br/>If you followed a link from an e-mail that you received from us, please contact with the administrator of the page.',
