@@ -5,10 +5,11 @@
 * IUM (Inactive User Manager Reminder extension for the phpBB Forum Software package.
 * Estonian translation by phpBBestonia.eu <https://www.phpbbestonia.eu>
 *
-* @copyright (c) 2014 phpBB Limited <https://www.phpbb.com>
-* @license GNU General Public License, version 2 (GPL-2.0)
+* @copyright (c) 2016 by Andreas Kourtidis
+* @license   GNU General Public License, version 2 (GPL-2.0)
 *
-*/
+* For full copyright and license information, please see
+* the CREDITS.txt file.
 
 if (!defined('IN_PHPBB'))
 {
